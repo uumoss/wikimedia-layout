@@ -1,0 +1,26 @@
+.text {
+	margin: 0 auto;
+	width:	1000px;
+	border: groove;
+	border-radius: 10px;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+.textright {
+	text-align: right;
+}
+
+.img {
+	position: relative;
+	text-align: center;
+	margin: 0 auto;
+	width: 1000px;
+	border: groove;	
+	border-radius: 10px;
+}
+
+img {
+	padding: 30px;
+	padding-bottom: 10px;
+}
